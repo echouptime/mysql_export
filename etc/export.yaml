@@ -1,0 +1,20 @@
+mysql:
+  host: 192.168.1.1
+  port: 3306
+  username: root
+  password: 123456
+  db: open_bfe
+
+web:
+  auth:
+    user: admin
+    password: admin
+
+logger:
+  filename: "logs/mysql_export.log"
+  loggerlevel: "debug"
+  loggerformat: "text"
+  max_age:  1
+  max_size: 7
+  max_backup: 7
+  compress: 14

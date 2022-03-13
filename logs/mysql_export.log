@@ -1,0 +1,394 @@
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:32+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:11:32+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:32+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:32+08:00","vaule":3928}
+{"level":"debug","metric":"queries","msg":"command metric","sample":3928,"time":"2022-03-10T17:11:32+08:00"}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:32+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:32+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:32+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:34+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:34+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:11:34+08:00"}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:34+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:34+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:34+08:00","vaule":3954}
+{"level":"debug","metric":"queries","msg":"command metric","sample":3954,"time":"2022-03-10T17:11:34+08:00"}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:34+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:35+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:11:35+08:00"}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:35+08:00","vaule":3964}
+{"level":"debug","metric":"queries","msg":"command metric","sample":3964,"time":"2022-03-10T17:11:35+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:35+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:35+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:35+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:35+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:35+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:11:35+08:00"}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:35+08:00","vaule":3984}
+{"level":"debug","metric":"queries","msg":"command metric","sample":3984,"time":"2022-03-10T17:11:35+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:35+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:35+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:35+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:35+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:36+08:00","vaule":4003}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4003,"time":"2022-03-10T17:11:36+08:00"}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:36+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:11:36+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:36+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:36+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:36+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:36+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:36+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:11:36+08:00"}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:36+08:00","vaule":4024}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4024,"time":"2022-03-10T17:11:36+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:36+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:36+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:36+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:36+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:37+08:00","vaule":4043}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4043,"time":"2022-03-10T17:11:37+08:00"}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:37+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:11:37+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:37+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:37+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:37+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:37+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:37+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:11:37+08:00"}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:37+08:00","vaule":4064}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4064,"time":"2022-03-10T17:11:37+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:37+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:37+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:37+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:37+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:38+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:38+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:11:38+08:00"}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:38+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:38+08:00","vaule":4093}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4093,"time":"2022-03-10T17:11:38+08:00"}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:38+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:38+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:38+08:00","vaule":4103}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4103,"time":"2022-03-10T17:11:38+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:38+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:38+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:38+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:11:38+08:00"}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:38+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:38+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:39+08:00","vaule":4123}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4123,"time":"2022-03-10T17:11:39+08:00"}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:39+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:11:39+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:39+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:39+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:39+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:39+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:39+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:39+08:00","vaule":4143}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:11:39+08:00"}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4143,"time":"2022-03-10T17:11:39+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:39+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:39+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:39+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:11:39+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:15:02+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:15:02+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:15:02+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:15:02+08:00","vaule":4177}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4177,"time":"2022-03-10T17:15:02+08:00"}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:15:02+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:15:02+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:15:02+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:15:20+08:00","vaule":4193}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4193,"time":"2022-03-10T17:15:20+08:00"}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:15:20+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:15:20+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:15:20+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:15:20+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:15:20+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:15:20+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:15:57+08:00","vaule":4216}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4216,"time":"2022-03-10T17:15:57+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:15:57+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:15:57+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:15:57+08:00"}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:15:57+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:15:57+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:15:57+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:19:23+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:19:23+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:19:23+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:19:23+08:00","vaule":4248}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4248,"time":"2022-03-10T17:19:23+08:00"}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:19:23+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:19:23+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:19:23+08:00","vaule":1}
+time="2022-03-10T17:32:06+08:00" level=debug msg="select status" name=queries sql="show global status where variable_name=?" vaule=0xc0002820e8
+time="2022-03-10T17:32:06+08:00" level=debug msg="command metric" metric=queries sample=4347
+time="2022-03-10T17:32:06+08:00" level=debug msg="select status" name=slow_queries sql="show global status where variable_name=?" vaule=0xc000282140
+time="2022-03-10T17:32:06+08:00" level=debug msg="command metric" metric=slow_queries sample=0
+time="2022-03-10T17:32:06+08:00" level=debug msg="select status" name=Com_insert sql="show global status where variable_name=?" vaule=0xc0000a4680
+time="2022-03-10T17:32:06+08:00" level=debug msg="select status" name=Com_select sql="show global status where variable_name=?" vaule=0xc0002083a0
+time="2022-03-10T17:32:06+08:00" level=debug msg="select status" name=Com_update sql="show global status where variable_name=?" vaule=0xc000208420
+time="2022-03-10T17:32:06+08:00" level=debug msg="select status" name=Com_delete sql="show global status where variable_name=?" vaule=0xc000208490
+time="2022-03-10T17:32:07+08:00" level=debug msg="select status" name=slow_queries sql="show global status where variable_name=?" vaule=0xc000282220
+time="2022-03-10T17:32:07+08:00" level=debug msg="command metric" metric=slow_queries sample=0
+time="2022-03-10T17:32:07+08:00" level=debug msg="select status" name=queries sql="show global status where variable_name=?" vaule=0xc000019650
+time="2022-03-10T17:32:07+08:00" level=debug msg="command metric" metric=queries sample=4370
+time="2022-03-10T17:32:07+08:00" level=debug msg="select status" name=Com_insert sql="show global status where variable_name=?" vaule=0xc0003be128
+time="2022-03-10T17:32:07+08:00" level=debug msg="select status" name=Com_select sql="show global status where variable_name=?" vaule=0xc0003be290
+time="2022-03-10T17:32:07+08:00" level=debug msg="select status" name=Com_update sql="show global status where variable_name=?" vaule=0xc0003be310
+time="2022-03-10T17:32:07+08:00" level=debug msg="select status" name=Com_delete sql="show global status where variable_name=?" vaule=0xc000019880
+time="2022-03-10T17:32:07+08:00" level=debug msg="select status" name=queries sql="show global status where variable_name=?" vaule=0xc0000a4888
+time="2022-03-10T17:32:07+08:00" level=debug msg="command metric" metric=queries sample=4389
+time="2022-03-10T17:32:07+08:00" level=debug msg="select status" name=slow_queries sql="show global status where variable_name=?" vaule=0xc000019890
+time="2022-03-10T17:32:07+08:00" level=debug msg="command metric" metric=slow_queries sample=0
+time="2022-03-10T17:32:07+08:00" level=debug msg="select status" name=Com_insert sql="show global status where variable_name=?" vaule=0xc000208548
+time="2022-03-10T17:32:07+08:00" level=debug msg="select status" name=Com_select sql="show global status where variable_name=?" vaule=0xc000019920
+time="2022-03-10T17:32:07+08:00" level=debug msg="select status" name=Com_update sql="show global status where variable_name=?" vaule=0xc0003be6e0
+time="2022-03-10T17:32:07+08:00" level=debug msg="select status" name=Com_delete sql="show global status where variable_name=?" vaule=0xc000019990
+time="2022-03-10T17:32:08+08:00" level=debug msg="select status" name=slow_queries sql="show global status where variable_name=?" vaule=0xc0003be7c8
+time="2022-03-10T17:32:08+08:00" level=debug msg="command metric" metric=slow_queries sample=0
+time="2022-03-10T17:32:08+08:00" level=debug msg="select status" name=queries sql="show global status where variable_name=?" vaule=0xc0000199d8
+time="2022-03-10T17:32:08+08:00" level=debug msg="command metric" metric=queries sample=4410
+time="2022-03-10T17:32:08+08:00" level=debug msg="select status" name=Com_insert sql="show global status where variable_name=?" vaule=0xc000208660
+time="2022-03-10T17:32:08+08:00" level=debug msg="select status" name=Com_select sql="show global status where variable_name=?" vaule=0xc0000a4990
+time="2022-03-10T17:32:08+08:00" level=debug msg="select status" name=Com_update sql="show global status where variable_name=?" vaule=0xc000208720
+time="2022-03-10T17:32:08+08:00" level=debug msg="select status" name=Com_delete sql="show global status where variable_name=?" vaule=0xc000208790
+time="2022-03-10T17:32:08+08:00" level=debug msg="select status" name=slow_queries sql="show global status where variable_name=?" vaule=0xc0002824f8
+time="2022-03-10T17:32:08+08:00" level=debug msg="command metric" metric=slow_queries sample=0
+time="2022-03-10T17:32:08+08:00" level=debug msg="select status" name=queries sql="show global status where variable_name=?" vaule=0xc000208830
+time="2022-03-10T17:32:08+08:00" level=debug msg="command metric" metric=queries sample=4430
+time="2022-03-10T17:32:08+08:00" level=debug msg="select status" name=Com_insert sql="show global status where variable_name=?" vaule=0xc000684008
+time="2022-03-10T17:32:08+08:00" level=debug msg="select status" name=Com_select sql="show global status where variable_name=?" vaule=0xc0006842f0
+time="2022-03-10T17:32:08+08:00" level=debug msg="select status" name=Com_update sql="show global status where variable_name=?" vaule=0xc000282150
+time="2022-03-10T17:32:08+08:00" level=debug msg="select status" name=Com_delete sql="show global status where variable_name=?" vaule=0xc0003be090
+time="2022-03-10T17:32:08+08:00" level=debug msg="select status" name=slow_queries sql="show global status where variable_name=?" vaule=0xc0000a4000
+time="2022-03-10T17:32:08+08:00" level=debug msg="command metric" metric=slow_queries sample=0
+time="2022-03-10T17:32:08+08:00" level=debug msg="select status" name=Com_insert sql="show global status where variable_name=?" vaule=0xc0003be1c8
+time="2022-03-10T17:32:08+08:00" level=debug msg="select status" name=Com_select sql="show global status where variable_name=?" vaule=0xc0006843e0
+time="2022-03-10T17:32:08+08:00" level=debug msg="select status" name=queries sql="show global status where variable_name=?" vaule=0xc000684320
+time="2022-03-10T17:32:08+08:00" level=debug msg="command metric" metric=queries sample=4459
+time="2022-03-10T17:32:08+08:00" level=debug msg="select status" name=Com_update sql="show global status where variable_name=?" vaule=0xc0000a4350
+time="2022-03-10T17:32:08+08:00" level=debug msg="select status" name=Com_delete sql="show global status where variable_name=?" vaule=0xc000282280
+time="2022-03-10T17:32:09+08:00" level=debug msg="select status" name=slow_queries sql="show global status where variable_name=?" vaule=0xc0000a4508
+time="2022-03-10T17:32:09+08:00" level=debug msg="command metric" metric=slow_queries sample=0
+time="2022-03-10T17:32:09+08:00" level=debug msg="select status" name=queries sql="show global status where variable_name=?" vaule=0xc000684468
+time="2022-03-10T17:32:09+08:00" level=debug msg="command metric" metric=queries sample=4470
+time="2022-03-10T17:32:09+08:00" level=debug msg="select status" name=Com_insert sql="show global status where variable_name=?" vaule=0xc000282288
+time="2022-03-10T17:32:09+08:00" level=debug msg="select status" name=Com_select sql="show global status where variable_name=?" vaule=0xc0000a4690
+time="2022-03-10T17:32:09+08:00" level=debug msg="select status" name=Com_update sql="show global status where variable_name=?" vaule=0xc0000a4710
+time="2022-03-10T17:32:09+08:00" level=debug msg="select status" name=Com_delete sql="show global status where variable_name=?" vaule=0xc0000a4780
+time="2022-03-10T17:32:09+08:00" level=debug msg="select status" name=slow_queries sql="show global status where variable_name=?" vaule=0xc0003be008
+time="2022-03-10T17:32:09+08:00" level=debug msg="command metric" metric=slow_queries sample=0
+time="2022-03-10T17:32:09+08:00" level=debug msg="select status" name=Com_insert sql="show global status where variable_name=?" vaule=0xc0006840e8
+time="2022-03-10T17:32:09+08:00" level=debug msg="select status" name=Com_select sql="show global status where variable_name=?" vaule=0xc0003be090
+time="2022-03-10T17:32:09+08:00" level=debug msg="select status" name=Com_update sql="show global status where variable_name=?" vaule=0xc0000a43b0
+time="2022-03-10T17:32:09+08:00" level=debug msg="select status" name=queries sql="show global status where variable_name=?" vaule=0xc0000a40d0
+time="2022-03-10T17:32:09+08:00" level=debug msg="command metric" metric=queries sample=4499
+time="2022-03-10T17:32:09+08:00" level=debug msg="select status" name=Com_delete sql="show global status where variable_name=?" vaule=0xc0000a4530
+time="2022-03-10T17:32:10+08:00" level=debug msg="select status" name=queries sql="show global status where variable_name=?" vaule=0xc0003be230
+time="2022-03-10T17:32:10+08:00" level=debug msg="command metric" metric=queries sample=4509
+time="2022-03-10T17:32:10+08:00" level=debug msg="select status" name=slow_queries sql="show global status where variable_name=?" vaule=0xc000208138
+time="2022-03-10T17:32:10+08:00" level=debug msg="command metric" metric=slow_queries sample=0
+time="2022-03-10T17:32:10+08:00" level=debug msg="select status" name=Com_insert sql="show global status where variable_name=?" vaule=0xc0000a4538
+time="2022-03-10T17:32:10+08:00" level=debug msg="select status" name=Com_select sql="show global status where variable_name=?" vaule=0xc000282500
+time="2022-03-10T17:32:10+08:00" level=debug msg="select status" name=Com_update sql="show global status where variable_name=?" vaule=0xc000282590
+time="2022-03-10T17:32:10+08:00" level=debug msg="select status" name=Com_delete sql="show global status where variable_name=?" vaule=0xc000282600
+time="2022-03-10T17:32:10+08:00" level=debug msg="select status" name=slow_queries sql="show global status where variable_name=?" vaule=0xc0000a4750
+time="2022-03-10T17:32:10+08:00" level=debug msg="command metric" metric=slow_queries sample=0
+time="2022-03-10T17:32:10+08:00" level=debug msg="select status" name=queries sql="show global status where variable_name=?" vaule=0xc000282720
+time="2022-03-10T17:32:10+08:00" level=debug msg="command metric" metric=queries sample=4530
+time="2022-03-10T17:32:10+08:00" level=debug msg="select status" name=Com_insert sql="show global status where variable_name=?" vaule=0xc0000a4770
+time="2022-03-10T17:32:10+08:00" level=debug msg="select status" name=Com_select sql="show global status where variable_name=?" vaule=0xc0000a48a0
+time="2022-03-10T17:32:10+08:00" level=debug msg="select status" name=Com_update sql="show global status where variable_name=?" vaule=0xc000282860
+time="2022-03-10T17:32:10+08:00" level=debug msg="select status" name=Com_delete sql="show global status where variable_name=?" vaule=0xc0002828d0
+time="2022-03-10T17:36:33+08:00" level=debug msg="select status" name=slow_queries sql="show global status where variable_name=?" vaule=0xc000018758
+time="2022-03-10T17:36:33+08:00" level=debug msg="command metric" metric=slow_queries sample=0
+time="2022-03-10T17:36:33+08:00" level=debug msg="select status" name=Com_insert sql="show global status where variable_name=?" vaule=0xc0000a4008
+time="2022-03-10T17:36:33+08:00" level=debug msg="select status" name=queries sql="show global status where variable_name=?" vaule=0xc000225330
+time="2022-03-10T17:36:33+08:00" level=debug msg="command metric" metric=queries sample=4557
+time="2022-03-10T17:36:33+08:00" level=debug msg="select status" name=Com_select sql="show global status where variable_name=?" vaule=0xc00030e120
+time="2022-03-10T17:36:33+08:00" level=debug msg="select status" name=Com_update sql="show global status where variable_name=?" vaule=0xc000225400
+time="2022-03-10T17:36:33+08:00" level=debug msg="select status" name=Com_delete sql="show global status where variable_name=?" vaule=0xc00030e190
+time="2022-03-10T17:36:34+08:00" level=debug msg="select status" name=slow_queries sql="show global status where variable_name=?" vaule=0xc0003804a8
+time="2022-03-10T17:36:34+08:00" level=debug msg="command metric" metric=slow_queries sample=0
+time="2022-03-10T17:36:34+08:00" level=debug msg="select status" name=queries sql="show global status where variable_name=?" vaule=0xc0000a4050
+time="2022-03-10T17:36:34+08:00" level=debug msg="command metric" metric=queries sample=4573
+time="2022-03-10T17:36:34+08:00" level=debug msg="select status" name=Com_insert sql="show global status where variable_name=?" vaule=0xc0002255a0
+time="2022-03-10T17:36:34+08:00" level=debug msg="select status" name=Com_select sql="show global status where variable_name=?" vaule=0xc0000a40d0
+time="2022-03-10T17:36:34+08:00" level=debug msg="select status" name=Com_update sql="show global status where variable_name=?" vaule=0xc000225650
+time="2022-03-10T17:36:34+08:00" level=debug msg="select status" name=Com_delete sql="show global status where variable_name=?" vaule=0xc0002256c0
+time="2022-03-10T17:36:34+08:00" level=debug msg="select status" name=queries sql="show global status where variable_name=?" vaule=0xc0000a40e0
+time="2022-03-10T17:36:34+08:00" level=debug msg="command metric" metric=queries sample=4592
+time="2022-03-10T17:36:34+08:00" level=debug msg="select status" name=slow_queries sql="show global status where variable_name=?" vaule=0xc000225808
+time="2022-03-10T17:36:34+08:00" level=debug msg="command metric" metric=slow_queries sample=0
+time="2022-03-10T17:36:34+08:00" level=debug msg="select status" name=Com_insert sql="show global status where variable_name=?" vaule=0xc00030e430
+time="2022-03-10T17:36:34+08:00" level=debug msg="select status" name=Com_select sql="show global status where variable_name=?" vaule=0xc000018b60
+time="2022-03-10T17:36:34+08:00" level=debug msg="select status" name=Com_update sql="show global status where variable_name=?" vaule=0xc000018be0
+time="2022-03-10T17:36:34+08:00" level=debug msg="select status" name=Com_delete sql="show global status where variable_name=?" vaule=0xc000018c50
+time="2022-03-10T17:36:35+08:00" level=debug msg="select status" name=queries sql="show global status where variable_name=?" vaule=0xc000380670
+time="2022-03-10T17:36:35+08:00" level=debug msg="command metric" metric=queries sample=4613
+time="2022-03-10T17:36:35+08:00" level=debug msg="select status" name=slow_queries sql="show global status where variable_name=?" vaule=0xc000018df0
+time="2022-03-10T17:36:35+08:00" level=debug msg="command metric" metric=slow_queries sample=0
+time="2022-03-10T17:36:35+08:00" level=debug msg="select status" name=Com_insert sql="show global status where variable_name=?" vaule=0xc0000a42f0
+time="2022-03-10T17:36:35+08:00" level=debug msg="select status" name=Com_select sql="show global status where variable_name=?" vaule=0xc00030e4d0
+time="2022-03-10T17:36:35+08:00" level=debug msg="select status" name=Com_update sql="show global status where variable_name=?" vaule=0xc00030e550
+time="2022-03-10T17:36:35+08:00" level=debug msg="select status" name=Com_delete sql="show global status where variable_name=?" vaule=0xc00030e5c0
+time="2022-03-10T17:36:35+08:00" level=debug msg="select status" name=queries sql="show global status where variable_name=?" vaule=0xc0003807c0
+time="2022-03-10T17:36:35+08:00" level=debug msg="command metric" metric=queries sample=4632
+time="2022-03-10T17:36:35+08:00" level=debug msg="select status" name=slow_queries sql="show global status where variable_name=?" vaule=0xc00030e5c8
+time="2022-03-10T17:36:35+08:00" level=debug msg="command metric" metric=slow_queries sample=0
+time="2022-03-10T17:36:35+08:00" level=debug msg="select status" name=Com_insert sql="show global status where variable_name=?" vaule=0xc0006a2020
+time="2022-03-10T17:36:35+08:00" level=debug msg="select status" name=Com_select sql="show global status where variable_name=?" vaule=0xc000702110
+time="2022-03-10T17:36:35+08:00" level=debug msg="select status" name=Com_update sql="show global status where variable_name=?" vaule=0xc000702190
+time="2022-03-10T17:36:35+08:00" level=debug msg="select status" name=Com_delete sql="show global status where variable_name=?" vaule=0xc000702200
+time="2022-03-10T17:36:35+08:00" level=debug msg="select status" name=Com_insert sql="show global status where variable_name=?" vaule=0xc00030e310
+time="2022-03-10T17:36:35+08:00" level=debug msg="select status" name=slow_queries sql="show global status where variable_name=?" vaule=0xc000702318
+time="2022-03-10T17:36:35+08:00" level=debug msg="command metric" metric=slow_queries sample=0
+time="2022-03-10T17:36:35+08:00" level=debug msg="select status" name=Com_select sql="show global status where variable_name=?" vaule=0xc00030e390
+time="2022-03-10T17:36:35+08:00" level=debug msg="select status" name=Com_update sql="show global status where variable_name=?" vaule=0xc0007025c0
+time="2022-03-10T17:36:35+08:00" level=debug msg="select status" name=queries sql="show global status where variable_name=?" vaule=0xc0006a2240
+time="2022-03-10T17:36:35+08:00" level=debug msg="command metric" metric=queries sample=4663
+time="2022-03-10T17:36:35+08:00" level=debug msg="select status" name=Com_delete sql="show global status where variable_name=?" vaule=0xc0006a22e0
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:00+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:00+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:00+08:00","vaule":4684}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4684,"time":"2022-03-10T17:37:00+08:00"}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:00+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:00+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:37:00+08:00"}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:00+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:00+08:00","vaule":4695}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4695,"time":"2022-03-10T17:37:00+08:00"}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:00+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:37:00+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:00+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:00+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:00+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:00+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:01+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:37:01+08:00"}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:01+08:00","vaule":4716}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4716,"time":"2022-03-10T17:37:01+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:01+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:01+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:01+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:01+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:01+08:00","vaule":4735}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4735,"time":"2022-03-10T17:37:01+08:00"}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:01+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:37:01+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:01+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:01+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:01+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:01+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:02+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:37:02+08:00"}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:02+08:00","vaule":4756}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4756,"time":"2022-03-10T17:37:02+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:02+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:02+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:02+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:02+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:02+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T17:37:02+08:00"}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:02+08:00","vaule":4776}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4776,"time":"2022-03-10T17:37:02+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:02+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:02+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:02+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T17:37:02+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T18:18:39+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T18:18:39+08:00","vaule":4796}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T18:18:39+08:00"}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4796,"time":"2022-03-10T18:18:39+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T18:18:39+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T18:18:39+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T18:18:39+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T18:18:39+08:00","vaule":1}
+{"level":"info","msg":"mysql status is ok","time":"2022-03-10T18:27:55+08:00"}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:01+08:00","vaule":4816}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4816,"time":"2022-03-10T18:28:01+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:01+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:01+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T18:28:01+08:00"}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:01+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:01+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:01+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:02+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T18:28:02+08:00"}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:02+08:00","vaule":4838}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4838,"time":"2022-03-10T18:28:02+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:02+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:02+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:02+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:02+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:02+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:02+08:00","vaule":4859}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4859,"time":"2022-03-10T18:28:02+08:00"}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:02+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:02+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:02+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T18:28:02+08:00"}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:02+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:03+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T18:28:03+08:00"}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:03+08:00","vaule":4879}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4879,"time":"2022-03-10T18:28:03+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:03+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:03+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:03+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:03+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:03+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:03+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T18:28:03+08:00"}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:03+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:03+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:03+08:00","vaule":4909}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4909,"time":"2022-03-10T18:28:03+08:00"}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:03+08:00","vaule":1}
+{"level":"debug","msg":"select status","name":"queries","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:04+08:00","vaule":4918}
+{"level":"debug","metric":"queries","msg":"command metric","sample":4918,"time":"2022-03-10T18:28:04+08:00"}
+{"level":"debug","msg":"select status","name":"slow_queries","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:04+08:00","vaule":0}
+{"level":"debug","metric":"slow_queries","msg":"command metric","sample":0,"time":"2022-03-10T18:28:04+08:00"}
+{"level":"debug","msg":"select status","name":"Com_insert","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:04+08:00","vaule":8}
+{"level":"debug","msg":"select status","name":"Com_select","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:04+08:00","vaule":47}
+{"level":"debug","msg":"select status","name":"Com_update","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:04+08:00","vaule":0}
+{"level":"debug","msg":"select status","name":"Com_delete","sql":"show global status where variable_name=?","time":"2022-03-10T18:28:04+08:00","vaule":1}
+time="2022-03-10T18:32:49+08:00" level=info msg="mysql status is ok"
+time="2022-03-10T18:32:50+08:00" level=debug msg="select status" name=slow_queries sql="show global status where variable_name=?" vaule=0xc000316580
+time="2022-03-10T18:32:50+08:00" level=debug msg="command metric" metric=slow_queries sample=0
+time="2022-03-10T18:32:50+08:00" level=debug msg="select status" name=queries sql="show global status where variable_name=?" vaule=0xc0000a9338
+time="2022-03-10T18:32:50+08:00" level=debug msg="command metric" metric=queries sample=4945
+time="2022-03-10T18:32:50+08:00" level=debug msg="select status" name=Com_insert sql="show global status where variable_name=?" vaule=0xc000212340
+time="2022-03-10T18:32:50+08:00" level=debug msg="select status" name=Com_select sql="show global status where variable_name=?" vaule=0xc0000a9450
+time="2022-03-10T18:32:50+08:00" level=debug msg="select status" name=Com_update sql="show global status where variable_name=?" vaule=0xc000212560
+time="2022-03-10T18:32:50+08:00" level=debug msg="select status" name=Com_delete sql="show global status where variable_name=?" vaule=0xc0002125d0
+time="2022-03-10T18:32:50+08:00" level=debug msg="select status" name=slow_queries sql="show global status where variable_name=?" vaule=0xc000388170
+time="2022-03-10T18:32:50+08:00" level=debug msg="command metric" metric=slow_queries sample=0
+time="2022-03-10T18:32:50+08:00" level=debug msg="select status" name=Com_insert sql="show global status where variable_name=?" vaule=0xc0000a9470
+time="2022-03-10T18:32:50+08:00" level=debug msg="select status" name=Com_select sql="show global status where variable_name=?" vaule=0xc000388200
+time="2022-03-10T18:32:50+08:00" level=debug msg="select status" name=queries sql="show global status where variable_name=?" vaule=0xc0000186b0
+time="2022-03-10T18:32:50+08:00" level=debug msg="command metric" metric=queries sample=4971
+time="2022-03-10T18:32:50+08:00" level=debug msg="select status" name=Com_update sql="show global status where variable_name=?" vaule=0xc000388290
+time="2022-03-10T18:32:50+08:00" level=debug msg="select status" name=Com_delete sql="show global status where variable_name=?" vaule=0xc000388300
+time="2022-03-10T18:32:51+08:00" level=debug msg="select status" name=slow_queries sql="show global status where variable_name=?" vaule=0xc000388310
+time="2022-03-10T18:32:51+08:00" level=debug msg="command metric" metric=slow_queries sample=0
+time="2022-03-10T18:32:51+08:00" level=debug msg="select status" name=queries sql="show global status where variable_name=?" vaule=0xc000388320
+time="2022-03-10T18:32:51+08:00" level=debug msg="command metric" metric=queries sample=4981
+time="2022-03-10T18:32:51+08:00" level=debug msg="select status" name=Com_insert sql="show global status where variable_name=?" vaule=0xc000018930
+time="2022-03-10T18:32:51+08:00" level=debug msg="select status" name=Com_select sql="show global status where variable_name=?" vaule=0xc000388440
+time="2022-03-10T18:32:51+08:00" level=debug msg="select status" name=Com_update sql="show global status where variable_name=?" vaule=0xc0003884c0
+time="2022-03-10T18:32:51+08:00" level=debug msg="select status" name=Com_delete sql="show global status where variable_name=?" vaule=0xc000316620
+time="2022-03-10T18:32:51+08:00" level=debug msg="select status" name=slow_queries sql="show global status where variable_name=?" vaule=0xc0002a4220
+time="2022-03-10T18:32:51+08:00" level=debug msg="command metric" metric=slow_queries sample=0
+time="2022-03-10T18:32:51+08:00" level=debug msg="select status" name=queries sql="show global status where variable_name=?" vaule=0xc0002a4230
+time="2022-03-10T18:32:51+08:00" level=debug msg="command metric" metric=queries sample=5002
+time="2022-03-10T18:32:51+08:00" level=debug msg="select status" name=Com_insert sql="show global status where variable_name=?" vaule=0xc000388290
+time="2022-03-10T18:32:51+08:00" level=debug msg="select status" name=Com_select sql="show global status where variable_name=?" vaule=0xc0003883e0
+time="2022-03-10T18:32:51+08:00" level=debug msg="select status" name=Com_update sql="show global status where variable_name=?" vaule=0xc000388460
+time="2022-03-10T18:32:51+08:00" level=debug msg="select status" name=Com_delete sql="show global status where variable_name=?" vaule=0xc000388500
